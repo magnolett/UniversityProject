@@ -3,5 +3,17 @@
 
 ###### Choose your destiny:
 
-#### English
-#### Portuguese
+#### - English
+require In English
+
+#### - Brazilian Portuguese
+require Em Português
+
+
+
+
+
+##In English
+
+1. How does it works?
+  * This project is my first 
