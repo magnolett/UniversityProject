@@ -15,6 +15,8 @@
     * Coordinator can register teachers, students and disciplines. He can also consult them all (*admin*);
     * Teachers can register grades, update them and consult his students;
     * Students can only consult his grades, and cry (*smile*);
+    2. We have a login screen, where we have an autentication (separating screens by our objects);
+    3. We have a validation class too;
     
  ###### In Construction!   
     
@@ -32,5 +34,16 @@
     * Coordenador pode cadastrar professores, estudantes e disciplinas. Ele pode também consultar todos os anteriores (*admin do sistema*);
     * Professores podem cadastrar notas, alterá-las e também consultar os estudantes de sua disciplina;
     * Estudantes podem somente consultar suas notas e chorar;
+    2. Tela de login possui um sistema de autenticação (separando as telas cada qual nossos objetos);
+    3. Implantada uma classe de validação de campos;
     
     ###### Em Construção!
+    
+    
+  #### Tasklist;
+  
+  - [x] Autentication method;
+  - [x] Validation class;
+  - [ ] Review code;
+  - [ ] Finish the project;
+  - [ ] Fix bugs.
