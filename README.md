@@ -1,7 +1,7 @@
 # UniversityProject
 ## My first JAVA Project (using JPA and JDBC)
 
-## Choose your destiny:
+###### Choose your destiny:
 
-### English
-### Portuguese
+#### English
+#### Portuguese
