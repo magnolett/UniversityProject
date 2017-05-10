@@ -11,6 +11,6 @@
     5. Comments and suggestions are always welcome.
     
 2. How it works?
-    1. So, we have Coordinator, Teacher and Student with different options and actions;
-            1. Coordinator:
-                    * Coordinator can 
+    1. We have Coordinator, Teacher and Student with different options and actions;
+      1. Coordinator:
+        * Coordinator can 
