@@ -3,7 +3,7 @@
 
 ###### Choose your destiny:
 
-#### - English
+#### -English
 require In English
 
 #### - Brazilian Portuguese
@@ -13,7 +13,7 @@ require Em Português
 
 
 
-##In English
+## In English
 
 1. How does it works?
   * This project is my first 
