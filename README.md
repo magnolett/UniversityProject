@@ -45,5 +45,5 @@
   - [x] Autentication method;
   - [x] Validation class;
   - [ ] Code review;
-  - [ ] Finish the project;
   - [ ] Fix bugs.
+  - [ ] Finish the project;
